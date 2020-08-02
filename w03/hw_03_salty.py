@@ -44,3 +44,7 @@ for tr in hitsongs:
 #body-content > div.newest-list > div > table > tbody > tr:nth-child(1) > td.info > a.title.ellipsis
 # artist
 #body-content > div.newest-list > div > table > tbody > tr:nth-child(1) > td.info > a.artist.ellipsis
+
+#############################
+# Github Upload
+#############################
